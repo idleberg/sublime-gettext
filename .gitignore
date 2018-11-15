@@ -1,0 +1,9 @@
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Package Managers
+bower_components/
+node_modules/
+npm-debug.log*
+vendor/
