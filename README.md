@@ -1,7 +1,7 @@
 # sublime-gettext
 
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/Inno%20Setup.svg?style=flat-square)](https://packagecontrol.io/packages/Inno%20Setup)
-[![GitHub tag](https://img.shields.io/github/tag/idleberg/sublime-innosetup.svg?style=flat-square)](https://github.com/idleberg/sublime-innosetup/tags)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Gettext.svg?style=flat-square)](https://packagecontrol.io/packages/Gettext)
+[![GitHub tag](https://img.shields.io/github/tag/idleberg/sublime-gettext.svg?style=flat-square)](https://github.com/idleberg/sublime-gettext/tags)
 
 Sublime Text support for Gettext
 
