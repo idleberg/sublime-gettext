@@ -1,0 +1,8 @@
+<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
+<snippet>
+    <content><![CDATA["${1:header name}: ${2: header value}\n"
+]]></content>
+    <tabTrigger>hdr</tabTrigger>
+    <description>Header</description>
+    <scope>source.po</scope>
+</snippet>

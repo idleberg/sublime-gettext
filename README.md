@@ -25,6 +25,21 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 1. Download the latest [ZIP file](https://github.com/idleberg/sublime-gettext/archive/master.zip)
 2. Unzip the archive to your Sublime Text `Packages` directory
 
+## Usage
+
+### Snippets
+
+`ctx` => Plural message in a context
+`hdr` => Header
+`id` => Message ID
+`idp` => Message ID plural
+`msg` => Simple Message
+`msgc` => Simple message in a context
+`msgcp` => Plural message in a context
+`msgp` => Plural message
+`str` => Message string
+`strp` => Message string plural
+
 ## License
 
 If not otherwise specified (see below), files in this repository fall under the following license:

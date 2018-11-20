@@ -1,0 +1,10 @@
+<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
+<snippet>
+    <content><![CDATA[msgid "$1"
+msgstr "$2"
+
+]]></content>
+    <tabTrigger>msg</tabTrigger>
+    <description>Simple Message</description>
+    <scope>source.po</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<!-- sublime-tinker-tools - https://github.com/idleberg/sublime-tinker-tools -->
+<snippet>
+    <content><![CDATA[msgid "${1:id}"
+msgid_plural "${2:plural id}"
+msgstr[0] "$3"
+msgstr[1] "$4"
+
+]]></content>
+    <tabTrigger>msgp</tabTrigger>
+    <description>Plural message</description>
+    <scope>source.po</scope>
+</snippet>

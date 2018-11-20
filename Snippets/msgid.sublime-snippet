@@ -1,8 +1,0 @@
-<snippet>
-    <content>
-        <![CDATA[msgid "${1:original text}"
-]]>
-    </content>
-    <tabTrigger>id</tabTrigger>
-    <scope>source.po</scope>
-</snippet>
