@@ -29,16 +29,16 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 
 ### Snippets
 
-`ctx` => Plural message in a context
-`hdr` => Header
-`id` => Message ID
-`idp` => Message ID plural
-`msg` => Simple Message
-`msgc` => Simple message in a context
-`msgcp` => Plural message in a context
-`msgp` => Plural message
-`str` => Message string
-`strp` => Message string plural
+- `ctx` => Plural message in a context
+- `hdr` => Header
+- `id` => Message ID
+- `idp` => Message ID plural
+- `msg` => Simple Message
+- `msgc` => Simple message in a context
+- `msgcp` => Plural message in a context
+- `msgp` => Plural message
+- `str` => Message string
+- `strp` => Message string plural
 
 ## License
 
