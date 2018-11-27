@@ -53,5 +53,5 @@ An exception is made for files in readable text which contain their own license 
 
 ## Credits
 
-Syntax [gettext.tmbundle](https://github.com/textmate/gettext.tmbundle)
-Snippets [language-gettext](https://github.com/ArnaudRinquin/atom-language-gettext)
+- Syntax, Preferences: [gettext.tmbundle](https://github.com/textmate/gettext.tmbundle)
+- Snippets: [language-gettext](https://github.com/ArnaudRinquin/atom-language-gettext)
